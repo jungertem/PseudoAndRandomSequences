@@ -1,0 +1,7 @@
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\bin\Debug\Harry Potter and the Sorcerer.txt
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\bin\Debug\Cryptography_1.exe.config
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\bin\Debug\Cryptography_1.exe
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\bin\Debug\Cryptography_1.pdb
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\obj\Debug\RandomSequences.csprojAssemblyReference.cache
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\obj\Debug\Cryptography_1.exe
+C:\Users\junge\source\repos\Cryptography_1\Cryptography_1\obj\Debug\Cryptography_1.pdb
